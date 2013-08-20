@@ -1,0 +1,6 @@
+;Message server
+server=localhost
+port=9000
+debug=true
+looptimes=1048576
+attachment.size=4096

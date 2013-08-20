@@ -1,0 +1,26 @@
+package protobuff;
+
+option java_package = "us.longda.tools.proto";
+option java_outer_classname = "MessageEvent";
+
+message Request {
+  required int32 command_id = 1;
+  required int32 request_data_length = 2;
+  required bytes request_data = 3;
+  optional bytes attachment = 4;
+  repeated string properties = 5;
+
+}
+
+message Response {
+  required int32 command_id = 1;
+  required int32 response_status = 2;
+  required int32 response_data_length = 3;
+  required bytes response_data = 4;
+  optional bytes attachment = 5;
+  repeated string properties = 6;
+}
+
+service ServiceHandler {
+    rpc request(Request) returns(Response);
+}

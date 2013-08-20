@@ -1,0 +1,112 @@
+2012-02-28 22:56:44 [org.apache.zookeeper.ZooKeeper:logEnv] [INFO]  Client environment:zookeeper.version=3.3.3-1073969, built on 02/23/2011 22:27 GMT
+2012-02-28 22:56:44 [org.apache.zookeeper.ZooKeeper:logEnv] [INFO]  Client environment:host.name=longdafeng
+2012-02-28 22:56:44 [org.apache.zookeeper.ZooKeeper:logEnv] [INFO]  Client environment:java.version=1.6.0_29
+2012-02-28 22:56:44 [org.apache.zookeeper.ZooKeeper:logEnv] [INFO]  Client environment:java.vendor=Sun Microsystems Inc.
+2012-02-28 22:56:44 [org.apache.zookeeper.ZooKeeper:logEnv] [INFO]  Client environment:java.home=/home/longda/program/jdk1.6.0_29/jre
+2012-02-28 22:56:44 [org.apache.zookeeper.ZooKeeper:logEnv] [INFO]  Client environment:java.class.path=/home/longda/disk/d/depot/zookeeper/zktools/target/classes:/home/longda/disk/d/repo/org/apache/zookeeper/zookeeper/3.3.3/zookeeper-3.3.3.jar:/home/longda/disk/d/repo/jline/jline/0.9.94/jline-0.9.94.jar:/home/longda/disk/d/repo/junit/junit/3.8.1/junit-3.8.1.jar:/home/longda/disk/d/repo/log4j/log4j/1.2.16/log4j-1.2.16.jar:/home/longda/disk/d/repo/org/ini4j/ini4j/0.5.2/ini4j-0.5.2.jar
+2012-02-28 22:56:44 [org.apache.zookeeper.ZooKeeper:logEnv] [INFO]  Client environment:java.library.path=/home/longda/program/jdk1.6.0_29/jre/lib/amd64/server:/home/longda/program/jdk1.6.0_29/jre/lib/amd64:/home/longda/program/jdk1.6.0_29/jre/../lib/amd64:/usr/java/packages/lib/amd64:/usr/lib64:/lib64:/lib:/usr/lib
+2012-02-28 22:56:44 [org.apache.zookeeper.ZooKeeper:logEnv] [INFO]  Client environment:java.io.tmpdir=/tmp
+2012-02-28 22:56:44 [org.apache.zookeeper.ZooKeeper:logEnv] [INFO]  Client environment:java.compiler=<NA>
+2012-02-28 22:56:44 [org.apache.zookeeper.ZooKeeper:logEnv] [INFO]  Client environment:os.name=Linux
+2012-02-28 22:56:44 [org.apache.zookeeper.ZooKeeper:logEnv] [INFO]  Client environment:os.arch=amd64
+2012-02-28 22:56:44 [org.apache.zookeeper.ZooKeeper:logEnv] [INFO]  Client environment:os.version=2.6.35-22-generic
+2012-02-28 22:56:44 [org.apache.zookeeper.ZooKeeper:logEnv] [INFO]  Client environment:user.name=longda
+2012-02-28 22:56:44 [org.apache.zookeeper.ZooKeeper:logEnv] [INFO]  Client environment:user.home=/home/longda
+2012-02-28 22:56:44 [org.apache.zookeeper.ZooKeeper:logEnv] [INFO]  Client environment:user.dir=/home/longda/disk/d/depot/zookeeper/zktools
+2012-02-28 22:56:44 [org.apache.zookeeper.ZooKeeper:<init>] [INFO]  Initiating client connection, connectString="localhost:2181" sessionTimeout=3000 watcher=null
+2012-02-28 22:58:24 [org.apache.zookeeper.ZooKeeper:logEnv] [INFO]  Client environment:zookeeper.version=3.3.3-1073969, built on 02/23/2011 22:27 GMT
+2012-02-28 22:58:24 [org.apache.zookeeper.ZooKeeper:logEnv] [INFO]  Client environment:host.name=longdafeng
+2012-02-28 22:58:24 [org.apache.zookeeper.ZooKeeper:logEnv] [INFO]  Client environment:java.version=1.6.0_29
+2012-02-28 22:58:24 [org.apache.zookeeper.ZooKeeper:logEnv] [INFO]  Client environment:java.vendor=Sun Microsystems Inc.
+2012-02-28 22:58:24 [org.apache.zookeeper.ZooKeeper:logEnv] [INFO]  Client environment:java.home=/home/longda/program/jdk1.6.0_29/jre
+2012-02-28 22:58:24 [org.apache.zookeeper.ZooKeeper:logEnv] [INFO]  Client environment:java.class.path=/home/longda/disk/d/depot/zookeeper/zktools/target/classes:/home/longda/disk/d/repo/org/apache/zookeeper/zookeeper/3.3.3/zookeeper-3.3.3.jar:/home/longda/disk/d/repo/jline/jline/0.9.94/jline-0.9.94.jar:/home/longda/disk/d/repo/junit/junit/3.8.1/junit-3.8.1.jar:/home/longda/disk/d/repo/log4j/log4j/1.2.16/log4j-1.2.16.jar:/home/longda/disk/d/repo/org/ini4j/ini4j/0.5.2/ini4j-0.5.2.jar
+2012-02-28 22:58:24 [org.apache.zookeeper.ZooKeeper:logEnv] [INFO]  Client environment:java.library.path=/home/longda/program/jdk1.6.0_29/jre/lib/amd64/server:/home/longda/program/jdk1.6.0_29/jre/lib/amd64:/home/longda/program/jdk1.6.0_29/jre/../lib/amd64:/usr/java/packages/lib/amd64:/usr/lib64:/lib64:/lib:/usr/lib
+2012-02-28 22:58:24 [org.apache.zookeeper.ZooKeeper:logEnv] [INFO]  Client environment:java.io.tmpdir=/tmp
+2012-02-28 22:58:24 [org.apache.zookeeper.ZooKeeper:logEnv] [INFO]  Client environment:java.compiler=<NA>
+2012-02-28 22:58:24 [org.apache.zookeeper.ZooKeeper:logEnv] [INFO]  Client environment:os.name=Linux
+2012-02-28 22:58:24 [org.apache.zookeeper.ZooKeeper:logEnv] [INFO]  Client environment:os.arch=amd64
+2012-02-28 22:58:24 [org.apache.zookeeper.ZooKeeper:logEnv] [INFO]  Client environment:os.version=2.6.35-22-generic
+2012-02-28 22:58:24 [org.apache.zookeeper.ZooKeeper:logEnv] [INFO]  Client environment:user.name=longda
+2012-02-28 22:58:24 [org.apache.zookeeper.ZooKeeper:logEnv] [INFO]  Client environment:user.home=/home/longda
+2012-02-28 22:58:24 [org.apache.zookeeper.ZooKeeper:logEnv] [INFO]  Client environment:user.dir=/home/longda/disk/d/depot/zookeeper/zktools
+2012-02-28 22:58:24 [org.apache.zookeeper.ZooKeeper:<init>] [INFO]  Initiating client connection, connectString=localhost:2181 sessionTimeout=3000 watcher=null
+2012-02-28 22:58:24 [org.apache.zookeeper.ClientCnxn:startConnect] [INFO]  Opening socket connection to server localhost/127.0.0.1:2181
+2012-02-28 22:58:24 [org.apache.zookeeper.ClientCnxn:primeConnection] [INFO]  Socket connection established to localhost/127.0.0.1:2181, initiating session
+2012-02-28 22:58:24 [org.apache.zookeeper.ClientCnxn:readConnectResult] [INFO]  Session establishment complete on server localhost/127.0.0.1:2181, sessionid = 0x135c34280a90002, negotiated timeout = 4000
+2012-02-28 22:58:24 [org.apache.zookeeper.ClientCnxn:processEvent] [ERROR]  Error while calling watcher 
+java.lang.NullPointerException
+	at org.apache.zookeeper.ClientCnxn$EventThread.processEvent(ClientCnxn.java:530)
+	at org.apache.zookeeper.ClientCnxn$EventThread.run(ClientCnxn.java:506)
+2012-02-28 23:00:58 [org.apache.zookeeper.ZooKeeper:logEnv] [INFO]  Client environment:zookeeper.version=3.3.3-1073969, built on 02/23/2011 22:27 GMT
+2012-02-28 23:00:58 [org.apache.zookeeper.ZooKeeper:logEnv] [INFO]  Client environment:host.name=longdafeng
+2012-02-28 23:00:58 [org.apache.zookeeper.ZooKeeper:logEnv] [INFO]  Client environment:java.version=1.6.0_29
+2012-02-28 23:00:58 [org.apache.zookeeper.ZooKeeper:logEnv] [INFO]  Client environment:java.vendor=Sun Microsystems Inc.
+2012-02-28 23:00:58 [org.apache.zookeeper.ZooKeeper:logEnv] [INFO]  Client environment:java.home=/home/longda/program/jdk1.6.0_29/jre
+2012-02-28 23:00:58 [org.apache.zookeeper.ZooKeeper:logEnv] [INFO]  Client environment:java.class.path=/home/longda/disk/d/depot/zookeeper/zktools/target/classes:/home/longda/disk/d/repo/org/apache/zookeeper/zookeeper/3.3.3/zookeeper-3.3.3.jar:/home/longda/disk/d/repo/jline/jline/0.9.94/jline-0.9.94.jar:/home/longda/disk/d/repo/junit/junit/3.8.1/junit-3.8.1.jar:/home/longda/disk/d/repo/log4j/log4j/1.2.16/log4j-1.2.16.jar:/home/longda/disk/d/repo/org/ini4j/ini4j/0.5.2/ini4j-0.5.2.jar
+2012-02-28 23:00:58 [org.apache.zookeeper.ZooKeeper:logEnv] [INFO]  Client environment:java.library.path=/home/longda/program/jdk1.6.0_29/jre/lib/amd64/server:/home/longda/program/jdk1.6.0_29/jre/lib/amd64:/home/longda/program/jdk1.6.0_29/jre/../lib/amd64:/usr/java/packages/lib/amd64:/usr/lib64:/lib64:/lib:/usr/lib
+2012-02-28 23:00:58 [org.apache.zookeeper.ZooKeeper:logEnv] [INFO]  Client environment:java.io.tmpdir=/tmp
+2012-02-28 23:00:58 [org.apache.zookeeper.ZooKeeper:logEnv] [INFO]  Client environment:java.compiler=<NA>
+2012-02-28 23:00:58 [org.apache.zookeeper.ZooKeeper:logEnv] [INFO]  Client environment:os.name=Linux
+2012-02-28 23:00:58 [org.apache.zookeeper.ZooKeeper:logEnv] [INFO]  Client environment:os.arch=amd64
+2012-02-28 23:00:58 [org.apache.zookeeper.ZooKeeper:logEnv] [INFO]  Client environment:os.version=2.6.35-22-generic
+2012-02-28 23:00:58 [org.apache.zookeeper.ZooKeeper:logEnv] [INFO]  Client environment:user.name=longda
+2012-02-28 23:00:58 [org.apache.zookeeper.ZooKeeper:logEnv] [INFO]  Client environment:user.home=/home/longda
+2012-02-28 23:00:58 [org.apache.zookeeper.ZooKeeper:logEnv] [INFO]  Client environment:user.dir=/home/longda/disk/d/depot/zookeeper/zktools
+2012-02-28 23:00:58 [org.apache.zookeeper.ZooKeeper:<init>] [INFO]  Initiating client connection, connectString=localhost:2181 sessionTimeout=3000 watcher=null
+2012-02-28 23:00:58 [org.apache.zookeeper.ClientCnxn:startConnect] [INFO]  Opening socket connection to server localhost/127.0.0.1:2181
+2012-02-28 23:00:58 [org.apache.zookeeper.ClientCnxn:primeConnection] [INFO]  Socket connection established to localhost/127.0.0.1:2181, initiating session
+2012-02-28 23:00:58 [org.apache.zookeeper.ClientCnxn:readConnectResult] [INFO]  Session establishment complete on server localhost/127.0.0.1:2181, sessionid = 0x135c34280a90003, negotiated timeout = 4000
+2012-02-28 23:00:58 [org.apache.zookeeper.ClientCnxn:processEvent] [ERROR]  Error while calling watcher 
+java.lang.NullPointerException
+	at org.apache.zookeeper.ClientCnxn$EventThread.processEvent(ClientCnxn.java:530)
+	at org.apache.zookeeper.ClientCnxn$EventThread.run(ClientCnxn.java:506)
+2012-02-28 23:25:12 [org.apache.zookeeper.ZooKeeper:logEnv] [INFO]  Client environment:zookeeper.version=3.3.3-1073969, built on 02/23/2011 22:27 GMT
+2012-02-28 23:25:12 [org.apache.zookeeper.ZooKeeper:logEnv] [INFO]  Client environment:host.name=longdafeng
+2012-02-28 23:25:12 [org.apache.zookeeper.ZooKeeper:logEnv] [INFO]  Client environment:java.version=1.6.0_29
+2012-02-28 23:25:12 [org.apache.zookeeper.ZooKeeper:logEnv] [INFO]  Client environment:java.vendor=Sun Microsystems Inc.
+2012-02-28 23:25:12 [org.apache.zookeeper.ZooKeeper:logEnv] [INFO]  Client environment:java.home=/home/longda/program/jdk1.6.0_29/jre
+2012-02-28 23:25:12 [org.apache.zookeeper.ZooKeeper:logEnv] [INFO]  Client environment:java.class.path=/home/longda/disk/d/depot/zookeeper/zktools/target/classes:/home/longda/disk/d/repo/org/apache/zookeeper/zookeeper/3.3.3/zookeeper-3.3.3.jar:/home/longda/disk/d/repo/jline/jline/0.9.94/jline-0.9.94.jar:/home/longda/disk/d/repo/junit/junit/3.8.1/junit-3.8.1.jar:/home/longda/disk/d/repo/log4j/log4j/1.2.16/log4j-1.2.16.jar:/home/longda/disk/d/repo/org/ini4j/ini4j/0.5.2/ini4j-0.5.2.jar
+2012-02-28 23:25:12 [org.apache.zookeeper.ZooKeeper:logEnv] [INFO]  Client environment:java.library.path=/home/longda/program/jdk1.6.0_29/jre/lib/amd64/server:/home/longda/program/jdk1.6.0_29/jre/lib/amd64:/home/longda/program/jdk1.6.0_29/jre/../lib/amd64:/usr/java/packages/lib/amd64:/usr/lib64:/lib64:/lib:/usr/lib
+2012-02-28 23:25:12 [org.apache.zookeeper.ZooKeeper:logEnv] [INFO]  Client environment:java.io.tmpdir=/tmp
+2012-02-28 23:25:12 [org.apache.zookeeper.ZooKeeper:logEnv] [INFO]  Client environment:java.compiler=<NA>
+2012-02-28 23:25:12 [org.apache.zookeeper.ZooKeeper:logEnv] [INFO]  Client environment:os.name=Linux
+2012-02-28 23:25:12 [org.apache.zookeeper.ZooKeeper:logEnv] [INFO]  Client environment:os.arch=amd64
+2012-02-28 23:25:12 [org.apache.zookeeper.ZooKeeper:logEnv] [INFO]  Client environment:os.version=2.6.35-22-generic
+2012-02-28 23:25:12 [org.apache.zookeeper.ZooKeeper:logEnv] [INFO]  Client environment:user.name=longda
+2012-02-28 23:25:12 [org.apache.zookeeper.ZooKeeper:logEnv] [INFO]  Client environment:user.home=/home/longda
+2012-02-28 23:25:12 [org.apache.zookeeper.ZooKeeper:logEnv] [INFO]  Client environment:user.dir=/home/longda/disk/d/depot/zookeeper/zktools
+2012-02-28 23:25:12 [org.apache.zookeeper.ZooKeeper:<init>] [INFO]  Initiating client connection, connectString=localhost:2181 sessionTimeout=3000 watcher=us.longda.tools.zktool.RmZnode@33e228bc
+2012-02-28 23:25:12 [org.apache.zookeeper.ClientCnxn:startConnect] [INFO]  Opening socket connection to server localhost/127.0.0.1:2181
+2012-02-28 23:25:12 [org.apache.zookeeper.ClientCnxn:primeConnection] [INFO]  Socket connection established to localhost/127.0.0.1:2181, initiating session
+2012-02-28 23:25:12 [org.apache.zookeeper.ClientCnxn:readConnectResult] [INFO]  Session establishment complete on server localhost/127.0.0.1:2181, sessionid = 0x135c34280a90004, negotiated timeout = 4000
+2012-02-28 23:25:12 [us.longda.tools.zktool.RmZnode:process] [INFO]  null receive one watch event
+stat:SyncConnected
+type:None
+
+2012-02-28 23:25:14 [us.longda.tools.zktool.ZkTool:connectZk] [INFO]  Successfully connect localhost:2181 Timeout 3000
+2012-02-28 23:29:00 [org.apache.zookeeper.ZooKeeper:logEnv] [INFO]  Client environment:zookeeper.version=3.3.3-1073969, built on 02/23/2011 22:27 GMT
+2012-02-28 23:29:00 [org.apache.zookeeper.ZooKeeper:logEnv] [INFO]  Client environment:host.name=longdafeng
+2012-02-28 23:29:00 [org.apache.zookeeper.ZooKeeper:logEnv] [INFO]  Client environment:java.version=1.6.0_29
+2012-02-28 23:29:00 [org.apache.zookeeper.ZooKeeper:logEnv] [INFO]  Client environment:java.vendor=Sun Microsystems Inc.
+2012-02-28 23:29:00 [org.apache.zookeeper.ZooKeeper:logEnv] [INFO]  Client environment:java.home=/home/longda/program/jdk1.6.0_29/jre
+2012-02-28 23:29:00 [org.apache.zookeeper.ZooKeeper:logEnv] [INFO]  Client environment:java.class.path=/home/longda/disk/d/depot/zookeeper/zktools/target/classes:/home/longda/disk/d/repo/org/apache/zookeeper/zookeeper/3.3.3/zookeeper-3.3.3.jar:/home/longda/disk/d/repo/jline/jline/0.9.94/jline-0.9.94.jar:/home/longda/disk/d/repo/junit/junit/3.8.1/junit-3.8.1.jar:/home/longda/disk/d/repo/log4j/log4j/1.2.16/log4j-1.2.16.jar:/home/longda/disk/d/repo/org/ini4j/ini4j/0.5.2/ini4j-0.5.2.jar
+2012-02-28 23:29:00 [org.apache.zookeeper.ZooKeeper:logEnv] [INFO]  Client environment:java.library.path=/home/longda/program/jdk1.6.0_29/jre/lib/amd64/server:/home/longda/program/jdk1.6.0_29/jre/lib/amd64:/home/longda/program/jdk1.6.0_29/jre/../lib/amd64:/usr/java/packages/lib/amd64:/usr/lib64:/lib64:/lib:/usr/lib
+2012-02-28 23:29:00 [org.apache.zookeeper.ZooKeeper:logEnv] [INFO]  Client environment:java.io.tmpdir=/tmp
+2012-02-28 23:29:00 [org.apache.zookeeper.ZooKeeper:logEnv] [INFO]  Client environment:java.compiler=<NA>
+2012-02-28 23:29:00 [org.apache.zookeeper.ZooKeeper:logEnv] [INFO]  Client environment:os.name=Linux
+2012-02-28 23:29:00 [org.apache.zookeeper.ZooKeeper:logEnv] [INFO]  Client environment:os.arch=amd64
+2012-02-28 23:29:00 [org.apache.zookeeper.ZooKeeper:logEnv] [INFO]  Client environment:os.version=2.6.35-22-generic
+2012-02-28 23:29:00 [org.apache.zookeeper.ZooKeeper:logEnv] [INFO]  Client environment:user.name=longda
+2012-02-28 23:29:00 [org.apache.zookeeper.ZooKeeper:logEnv] [INFO]  Client environment:user.home=/home/longda
+2012-02-28 23:29:00 [org.apache.zookeeper.ZooKeeper:logEnv] [INFO]  Client environment:user.dir=/home/longda/disk/d/depot/zookeeper/zktools
+2012-02-28 23:29:00 [org.apache.zookeeper.ZooKeeper:<init>] [INFO]  Initiating client connection, connectString=localhost:2181 sessionTimeout=3000 watcher=us.longda.tools.zktool.RmZnode@2f242b11
+2012-02-28 23:29:00 [org.apache.zookeeper.ClientCnxn:startConnect] [INFO]  Opening socket connection to server localhost/0:0:0:0:0:0:0:1:2181
+2012-02-28 23:29:00 [org.apache.zookeeper.ClientCnxn:primeConnection] [INFO]  Socket connection established to localhost/0:0:0:0:0:0:0:1:2181, initiating session
+2012-02-28 23:29:00 [org.apache.zookeeper.ClientCnxn:readConnectResult] [INFO]  Session establishment complete on server localhost/0:0:0:0:0:0:0:1:2181, sessionid = 0x135c34280a90005, negotiated timeout = 4000
+2012-02-28 23:29:00 [us.longda.tools.zktool.RmZnode:process] [INFO]  null receive one watch event
+stat:SyncConnected
+type:None
+
+2012-02-28 23:29:01 [us.longda.tools.zktool.ZkTool:connectZk] [INFO]  Successfully connect localhost:2181 Timeout 3000
+2012-02-28 23:29:50 [us.longda.tools.zktool.RmZnode:rmOneZnode] [INFO]  Successfully delete /test/me
+2012-02-28 23:29:53 [us.longda.tools.zktool.RmZnode:rmOneZnode] [INFO]  Successfully delete /test
